@@ -1,0 +1,24 @@
+{
+  "name": "docker-node-hello-world",
+  "version": "1.0.0",
+  "description": "Simple Hello World Node Docker Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mark Slosarek <mark@slosarek.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mslosarek/docker-node-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mslosarek/docker-node-hello-world/issues"
+  },
+  "homepage": "https://github.com/mslosarek/docker-node-hello-world#readme"
+}
